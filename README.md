@@ -5,6 +5,16 @@ El proyecto consiste en el desarrollo de un prototipo de amplificador de audio d
 
 Se implementa una interfaz de usuario en la app que permite encender/apagar el amplificador, activar/desactivar el vúmetro y monitorear la temperatura.
 
+Este proyecto es un excelente ejemplo de cómo el Internet de las Cosas (IoT) puede mejorar productos cotidianos agregando capacidades de control y monitoreo remoto.
+
+Al incorporar conectividad WiFi y protocolos como MQTT, el amplificador puede ahora ser controlado desde un smartphone, sin necesidad de interacción física directa. Esto abre varias posibilidades:
+
+- Control remoto desde cualquier lugar: puede encender o apagar el amplificador sin estar físicamente junto a él.
+- Monitoreo remoto: la aplicación permite supervisar el estado y temperatura del dispositivo en tiempo real.
+- Integración con otros sistemas y automatización: el amplificador podría, por ejemplo, apagarse automáticamente de noche.
+  
+ Así, el IoT está tomando dispositivos "tontos" y entregando control, conveniencia y capacidades mejoradas de manera simple y rentable. Esto se extrapola a infinitos escenarios, desde ciudades inteligentes hasta hogares conectados. Este proyecto ejemplifica perfectamente la promesa del IoT.
+
 La comunicación se realiza mediante el protocolo MQTT y el microcontrolador ESP8266 con conexión WiFi.
 
 ## Diagrama de bloques
